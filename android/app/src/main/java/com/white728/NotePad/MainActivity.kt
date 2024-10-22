@@ -1,4 +1,4 @@
-package com.notepad
+package com.white728.NotePad
 
 import android.os.Build
 import android.os.Bundle

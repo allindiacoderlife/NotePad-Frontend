@@ -2,6 +2,18 @@
   "expo": {
     "name": "NotePad",
     "slug": "NotePad",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "android": {
+      "package": "com.white728.NotePad"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4071a03e-c9eb-4bcf-9390-298cf2c716b4"
+      }
+    }
   }
 }
